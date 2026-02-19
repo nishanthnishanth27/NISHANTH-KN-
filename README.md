@@ -1,7 +1,7 @@
 # Hi there, I'm [NISHANTH KN]! 👋
 
 ### 🚀 About Me
-- 🔭 I’m currently learning **Python devrloper**
+- 🔭 I’m currently learning **Python developer**
 - ⚡ Fun fact: I love coding on my mobile!
 
 ### 🛠 Tech Stack
