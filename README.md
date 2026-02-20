@@ -12,4 +12,5 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 📊 GitHub Stats
-![Unga GitHub Stats](https://github-readme-stats.vercel.app/api?username=[UNGA-USERNAME]&show_icons=true&theme=radical)
+![NISHANTH KN GitHub Stats](https://github-readme-stats.vercel.app/api?username=NISHANTH-KN-&show_icons=true&theme=radical)
+
