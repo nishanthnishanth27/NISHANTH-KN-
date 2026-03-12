@@ -11,5 +11,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 📊 GitHub Stats
-"https://githubreadmestats.vercel.app/apiusername=nishanthnishanth27&show_icons=true&theme=radical"
+![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanthnishanth27&show_icons=true&theme=radical)
+
 
