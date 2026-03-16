@@ -13,5 +13,5 @@
 ### 📊 GitHub Stats
 ![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanthnishanth27&show_icons=true&theme=radical)
 
-### Daily streak
+### 🔥 Daily streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nishanthnishanth27&theme=tokyonight)](https://git.io/streak-stats)
