@@ -20,7 +20,7 @@
 - 💻 **Forage:** Data Analytics Job Simulation
 
 ### 📈 Coding Proficiency
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthnishanth27&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthnishanth27&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ### 🛠️ Languages & Technologies
