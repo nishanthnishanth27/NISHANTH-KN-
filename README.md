@@ -1,8 +1,10 @@
 # Hi there, I'm NISHANTH KN👋
 
 ### 🚀 About Me
-- 🔭 I’m currently learning **Python developer**
-- ⚡ Fun fact: I love coding on my mobile!
+- 👨‍💻 **AI & Data Science Student** at Paavai College of Engineering.
+- 🏆 **Competitive Programmer:** 1050+ problems solved on CodeChef (Diamond Badge).
+- 📱 **Android Developer:** Completed Google Android Internship.
+- ⚡ **Fun fact:** I love coding on my mobile!
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
