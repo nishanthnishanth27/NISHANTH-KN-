@@ -1,4 +1,5 @@
-# Hi there, I'm NISHANTH KN👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> I'm NISHANTH KN
+
 
 ### 🚀 About Me
 - 👨‍💻 **AI & Data Science Student** at Paavai College of Engineering.
