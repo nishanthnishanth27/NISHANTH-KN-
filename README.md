@@ -18,6 +18,10 @@
 - 📱 **Google:** Android Developer Virtual Internship
 - 💻 **Forage:** Data Analytics Job Simulation
 
+### 📈 Coding Proficiency
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthnishanth27&layout=compact&theme=tokyonight)
+
+
 ### 🛠️ Languages & Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,tensorflow,opencv,js,html,css,mysql,git,androidstudio,vscode" />
