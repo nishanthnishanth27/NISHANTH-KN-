@@ -20,10 +20,18 @@
 - 🤖 **Infosys Springboard:** AI and Machine Learning Training
 - 📱 **Google:** Android Developer Virtual Internship
 - 💻 **Forage:** Data Analytics Job Simulation
-- 
-### 📊 GitHub Stats
+
+  <p align="left">
+  <a href="https://github.com/nishanthnishanth27">
+    <img src="https://img.shields.io/badge/GitHub-Stats-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Commits-450%2B-orange?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/PRs-30-green?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stars-25-yellow?style=for-the-badge&logo=reverbnation&logoColor=white" />
+  </a>
+</p>
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=nishanthnishanth27&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" alt="Nishanth's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthnishanth27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 
