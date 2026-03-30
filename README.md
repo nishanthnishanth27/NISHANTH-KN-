@@ -9,9 +9,11 @@
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-### 🛠 Languages and Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 🛠️ Languages & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,tensorflow,pytorch,opencv,js,html,css,mysql,git,androidstudio,vscode" />
+</p>
 
 ### 📊 GitHub Stats
 ![Nishanth's Stats](https://github-readme-stats.vercel.app/api?username=nishanthnishanth27&show_icons=true&theme=tokyonight)
@@ -23,7 +25,7 @@
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-k-n27092006/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishanthnishanth27)
-
+### 👀 Profile viewers
 ![Visitors](https://komarev.com/ghpvc/?username=nishanthnishanth27&color=blueviolet&style=flat-square)
 
 
