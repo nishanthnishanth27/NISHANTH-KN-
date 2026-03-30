@@ -41,6 +41,8 @@
 ### 👀 Profile viewers
 ![Visitors](https://komarev.com/ghpvc/?username=nishanthnishanth27&color=blueviolet&style=flat-square)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishanthnishanth27&theme=tokyonight)
+
 
 ### 🔥 Daily streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nishanthnishanth27&theme=tokyonight)](https://git.io/streak-stats)
