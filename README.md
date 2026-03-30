@@ -10,6 +10,14 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
+### 🏆 Certifications
+- ☁️ **Google Cloud:** GenAI & Large Language Models Specialization
+- 🎓 **EduSkills:** Python Fullstack Developer Internship
+- 📊 **NASSCOM:** Exploratory Data Analysis (EDA)
+- 🤖 **Infosys Springboard:** AI and Machine Learning Training
+- 📱 **Google:** Android Developer Virtual Internship
+- 💻 **Forage:** Data Analytics Job Simulation
+
 ### 🛠️ Languages & Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,tensorflow,opencv,js,html,css,mysql,git,androidstudio,vscode" />
