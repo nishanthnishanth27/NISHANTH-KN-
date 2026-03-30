@@ -20,20 +20,13 @@
 - 🤖 **Infosys Springboard:** AI and Machine Learning Training
 - 📱 **Google:** Android Developer Virtual Internship
 - 💻 **Forage:** Data Analytics Job Simulation
-
-  <p align="left">
-  <a href="https://github.com/nishanthnishanth27">
-    <img src="https://img.shields.io/badge/GitHub-Stats-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Commits-450%2B-orange?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/PRs-30-green?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Stars-25-yellow?style=for-the-badge&logo=reverbnation&logoColor=white" />
-  </a>
-</p>
-
+- 
+### 📉 Coding Proficiency
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthnishanth27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-80%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-70%25-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
-
 
 ### 🏆 Featured Projects
 - 🤖 **AI News Reporter:** English & Tamil news aggregator.
