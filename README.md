@@ -12,7 +12,7 @@
 
 ### 🛠️ Languages & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,tensorflow,pytorch,opencv,js,html,css,mysql,git,androidstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,tensorflow,opencv,js,html,css,mysql,git,androidstudio,vscode" />
 </p>
 
 ### 📊 GitHub Stats
