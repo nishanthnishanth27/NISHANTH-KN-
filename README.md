@@ -11,7 +11,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 📊 GitHub Stats
-![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanthnishanth27&show_icons=true&theme=radical)
+![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanthnishanth27&show_icons=true&theme=dark)
 
 ### 🔥 Daily streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nishanthnishanth27&theme=tokyonight)](https://git.io/streak-stats)
