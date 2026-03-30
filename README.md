@@ -1,4 +1,5 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> I'm NISHANTH KN
+# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="35"> I'm NISHANTH KN
+### 🚀 AI & Data Science Engineer | Competitive Programmer
 
 
 ### 🚀 About Me
