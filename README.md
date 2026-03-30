@@ -16,5 +16,11 @@
 ### 📊 GitHub Stats
 [![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanthnishanth27&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🏆 Featured Projects
+- 🤖 **AI News Reporter:** English & Tamil news aggregator.
+- ✍️ **Air-canva:** Gesture-based virtual drawing tool.
+  
+
+
 ### 🔥 Daily streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nishanthnishanth27&theme=tokyonight)](https://git.io/streak-stats)
