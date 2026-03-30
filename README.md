@@ -14,7 +14,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 📊 GitHub Stats
-[![Nishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanthnishanth27&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Nishanth's Stats](https://github-readme-stats.vercel.app/api?username=nishanthnishanth27&show_icons=true&theme=tokyonight)
 
 ### 🏆 Featured Projects
 - 🤖 **AI News Reporter:** English & Tamil news aggregator.
