@@ -20,13 +20,6 @@
 - 🤖 **Infosys Springboard:** AI and Machine Learning Training
 - 📱 **Google:** Android Developer Virtual Internship
 - 💻 **Forage:** Data Analytics Job Simulation
-- 
-### 📉 Coding Proficiency
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-80%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-70%25-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
 
 ### 🏆 Featured Projects
 - 🤖 **AI News Reporter:** English & Tamil news aggregator.
