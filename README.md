@@ -18,18 +18,22 @@
 - 🤖 **Infosys Springboard:** AI and Machine Learning Training
 - 📱 **Google:** Android Developer Virtual Internship
 - 💻 **Forage:** Data Analytics Job Simulation
+- 
+### 📉 Coding Proficiency
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthnishanth27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
 
-### 📈 Coding Proficiency
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthnishanth27&layout=compact&theme=tokyonight&hide_border=true)
-
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanthnishanth27&show_icons=true&theme=tokyonight&count_private=true" alt="Nishanth's Stats" />
+</p>
 
 ### 🛠️ Languages & Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,tensorflow,opencv,js,html,css,mysql,git,androidstudio,vscode" />
 </p>
 
-### 📊 GitHub Stats
-![Nishanth's Stats](https://github-readme-stats.vercel.app/api?username=nishanthnishanth27&show_icons=true&theme=tokyonight)
 
 ### 🏆 Featured Projects
 - 🤖 **AI News Reporter:** English & Tamil news aggregator.
