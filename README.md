@@ -1,5 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="35"> I'm NISHANTH KN
-### 🚀 AI & Data Science Engineer | Competitive Programmer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NISHANTH%20KN&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
 
 ### 🚀 About Me
