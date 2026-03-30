@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NISHANTH%20KN&fontSize=70&animation=fadeIn&fontAlignY=35" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Competitive+Programmer+(1050%2B+Solved);Android+Developer;Python+%26+ML+Enthusiast" alt="Typing SVG" />
 </p>
 
 
