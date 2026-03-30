@@ -18,11 +18,17 @@
 - 🤖 **Infosys Springboard:** AI and Machine Learning Training
 - 📱 **Google:** Android Developer Virtual Internship
 - 💻 **Forage:** Data Analytics Job Simulation
-- 
 ### 📉 Coding Proficiency
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthnishanth27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanthnishanth27&show_icons=true&theme=tokyonight&count_private=true" alt="Nishanth's Stats" />
+</p>
+
+
 
 ### 📊 GitHub Stats
 <p align="left">
