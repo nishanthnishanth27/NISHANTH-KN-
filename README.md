@@ -24,10 +24,6 @@
 ### 🏆 Featured Projects
 - 🤖 **AI News Reporter:** English & Tamil news aggregator.
 - ✍️ **Air-canva:** Gesture-based virtual drawing tool.
-### 📊 GitHub Stats
-![Commits](https://img.shields.io/badge/Commits-450%2B-orange?style=for-the-badge&logo=git&logoColor=white)
-![Stars](https://img.shields.io/badge/Stars-25-yellow?style=for-the-badge&logo=reverbnation&logoColor=white)
-![PRs](https://img.shields.io/badge/PRs-30-green?style=for-the-badge&logo=github&logoColor=white)
 
 
 ### 🤝 Connect with me
