@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 - 👨‍💻 **AI & Data Science Student** at Paavai College of Engineering.
-- 🏆 **Competitive Programmer:** 1050+ problems solved on CodeChef (Diamond Badge).
+- 🏆 **Competitive Programmer:** 1150+ problems solved on CodeChef (Diamond Badge).
 - 📱 **Android Developer:** Completed Google Android Internship.
 - ⚡ **Fun fact:** I love coding on my mobile!
 
