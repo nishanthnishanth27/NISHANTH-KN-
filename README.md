@@ -7,30 +7,19 @@
 ---
 
 ## 💻 About Me
+## 🚀 About Me
 
-```python
-class NisanthKN:
-    def __init__(self):
-        self.name = "Nishanth KN"
-        self.location = "Namakkal, India"
-        self.email = "nishantnishanth47622@gmail.com"
-        self.degree = "B.Tech in AI & DS"
-        self.college = "Paavai College of Engineering"
-        
-        self.languages = ["Python", "Java", "C++", "HTML", "CSS", "JavaScript"]
-        self.expertise = ["Data Science", "Competitive Programming", "AI/ML", "Web Development"]
-        self.currently_learning = ["Advanced ML", "Cloud Computing", "System Design"]
-        self.fun_fact = "Diamond Badge Problem Solver on CodeChef 💎"
-    
-    def motto(self):
-        return "Code today, Innovate tomorrow! 🚀"
+Hi there! I'm **Nishanth KN**, an aspiring **Data Scientist** and **AI Enthusiast** pursuing a Bachelor's degree in **Artificial Intelligence & Data Science**.
 
-# Create instance
-dev = NisanthKN()
-print(f"Hey! I'm {dev.name} from {dev.location}")
-print(f"Expertise: {', '.join(dev.expertise)}")
-```
+I enjoy solving real-world problems through technology, building intelligent applications, and exploring the latest advancements in AI, Machine Learning, and Data Analytics.
 
+🔹 Strong foundation in Python, Java, C++, and SQL  
+🔹 Passionate about Machine Learning and Data Science  
+🔹 Competitive Programmer & Problem Solver  
+🔹 Exploring Cloud Computing and Modern Technologies  
+🔹 Building projects that create real-world impact  
+
+> **"Transforming ideas into intelligent solutions through code."**
 ---
 
 ## 🛠️ Tech Stack
