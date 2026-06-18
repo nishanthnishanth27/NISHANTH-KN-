@@ -21,16 +21,16 @@ class NisanthKN:
         
         self.languages = ["Python", "Java", "C++", "HTML", "CSS", "JavaScript"]
         self.expertise = ["Data Science", "Competitive Programming", "AI/ML", "Web Development"]
-        self.currently_learning = ["Advanced Machine Learning", "Cloud Computing", "System Design"]
-        
+        self.currently_learning = ["Advanced ML", "Cloud Computing", "System Design"]
         self.fun_fact = "Diamond Badge Problem Solver on CodeChef 💎"
-        self.motto = lambda: "Code today, Innovate tomorrow!"
+    
+    def motto(self):
+        return "Code today, Innovate tomorrow! 🚀"
 
 # Create instance
 dev = NisanthKN()
 print(f"Hey! I'm {dev.name} from {dev.location}")
 print(f"Expertise: {', '.join(dev.expertise)}")
-```
 
 ---
 
