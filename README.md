@@ -14,7 +14,7 @@ Hi there! I'm **Nishanth KN**, an aspiring **Data Scientist** and **AI Enthusias
 I enjoy solving real-world problems through technology, building intelligent applications, and exploring the latest advancements in AI, Machine Learning, and Data Analytics.
 
 🔹 Strong foundation in Python, Java, C++, and SQL  
-🔹 Passionate about Machine Learning and Data Science  
+🔹 Passionate about Machine Learning and Data Science
 🔹 Competitive Programmer & Problem Solver  
 🔹 Exploring Cloud Computing and Modern Technologies  
 🔹 Building projects that create real-world impact
