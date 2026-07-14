@@ -6,7 +6,6 @@
 
 ---
 
-## 💻 About Me
 ## 🚀 About Me
 
 Hi there! I'm **Nishanth KN**, an aspiring **Data Scientist** and **AI Enthusiast** pursuing a Bachelor's degree in **Artificial Intelligence & Data Science**.
