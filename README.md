@@ -14,7 +14,7 @@ I enjoy solving real-world problems through technology, building intelligent app
 
 🔹 Strong foundation in Python, Java, C++, and SQL  
 🔹 Passionate about Machine Learning and Data science
-🔹 Competitive Programmer & Problem Solver  
+🔹 Competitive Programmer & Problem Solver
 🔹 Exploring Cloud Computing and Modern Technologies
 🔹 Building projects that create real-world impact
 
